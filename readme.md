@@ -1,5 +1,5 @@
 # Arnold Spheres
-A demonstration of Maya 2018 scene creation using Python. The shaders are configured for Arnold render.
+How to create a Maya 2018 scene using Python. The shaders are configured for Arnold render.
 
 ### Run the script in Maya
 * Open the Script Editor.
@@ -24,5 +24,4 @@ A demonstration of Maya 2018 scene creation using Python. The shaders are config
 * Add a camera
 
 ### Final image
-![Final image of Arnold rendered spheres](/arnoldsphere.jpg)
-Format: ![Final image of Arnold rendered spheres](url)
+![alt text](http://www.animatedcreations.net/images/arnoldspheres.jpg "Final image of Arnold rendered spheres")
