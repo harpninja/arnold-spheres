@@ -23,5 +23,5 @@ How to create a Maya 2018 scene using Python. The shaders are configured for Arn
     * Colour = white.
 * Add a camera
 
-### Final image
+### Final generated image
 ![alt text](http://www.animatedcreations.net/images/arnoldspheres.jpg "Final image of Arnold rendered spheres")
